@@ -1,0 +1,91 @@
+{
+  "OrderNr": 2,
+  "IsStudentOrder": true,
+  "Tickets": [
+    {
+      "RowNr": 4,
+      "SeatNr": 9,
+      "IsPremium": true,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    },
+    {
+      "RowNr": 4,
+      "SeatNr": 10,
+      "IsPremium": true,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    },
+    {
+      "RowNr": 6,
+      "SeatNr": 1,
+      "IsPremium": false,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    },
+    {
+      "RowNr": 6,
+      "SeatNr": 9,
+      "IsPremium": false,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    },
+    {
+      "RowNr": 7,
+      "SeatNr": 5,
+      "IsPremium": true,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    },
+    {
+      "RowNr": 8,
+      "SeatNr": 9,
+      "IsPremium": true,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    },
+    {
+      "RowNr": 2,
+      "SeatNr": 12,
+      "IsPremium": true,
+      "Screening": {
+        "DateAndTime": "2024-01-31T15:17:00.7033397+01:00",
+        "PricePerSeat": 12.5,
+        "Movie": {
+          "Title": "matrix"
+        }
+      }
+    }
+  ],
+  "TotalPrice": 97.5
+}
