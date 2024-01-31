@@ -1,0 +1,34 @@
+Order number: 1
+This movie is called:
+matrix
+
+This movie screening is at:
+Wednesday, 31 January 2024
+The price per seat for this screening is:
+12.5
+
+This movie ticket is for row:
+4
+and seat:
+9
+This is a premium ticket
+
+This movie ticket is for row:
+4
+and seat:
+10
+This is a premium ticket
+
+This movie ticket is for row:
+6
+and seat:
+1
+This is a regular ticket
+
+This movie ticket is for row:
+6
+and seat:
+9
+This is a regular ticket
+
+Total price: 54
