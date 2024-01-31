@@ -21,16 +21,6 @@ namespace Domain
             IsPremium = isPremium;
         }
 
-        public bool IsPremiumTicket()
-        {
-            return IsPremium;
-        }
-
-        public double GetPrice()
-        {
-            return 0;
-        }
-
         public override string ToString()
         {
             var sb = new StringBuilder();

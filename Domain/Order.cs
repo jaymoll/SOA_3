@@ -19,11 +19,6 @@ namespace Domain
             IsStudentOrder = isStudentOrder;
         }
 
-        public int GetOrderNr()
-        {
-            return OrderNr;
-        }
-
         public void AddSeatReservation(MovieTicket movieTicket)
         {
             throw new NotImplementedException();

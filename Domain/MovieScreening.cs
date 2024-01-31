@@ -13,11 +13,6 @@ namespace Domain
             PricePerSeat = pricePerSeat;
         }
 
-        public double GetPricePerSeat()
-        {
-            return PricePerSeat;
-        }
-
         public override string ToString()
         {
             var sb = new StringBuilder();
